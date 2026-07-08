@@ -1,0 +1,6 @@
+Alice,E1,50000,Engineering
+Bob,E2,60000,Sales
+
+Charlie,E3,notanumber,Marketing
+Dave,E4,55000
+Eve,E5,72000,HR

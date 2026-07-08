@@ -1,0 +1,36 @@
+Employee ID: E1
+Name: Alice
+Department: Engineering
+Base Salary: 50000.0
+Final Salary: 50000.0
+========================================
+Employee ID: E2
+Name: Bob
+Department: Sales
+Base Salary: 60000.0
+Final Salary: 60000.0
+========================================
+Employee ID: E5
+Name: Eve
+Department: HR
+Base Salary: 72000.0
+Final Salary: 72000.0
+========================================
+Employee ID: M1
+Name: Frank
+Department: Engineering
+Base Salary: 60000
+Final Salary: 72000.0
+Team Size: 4
+Bonus Percent: 20.0%
+Bonus Amount: 12000.0
+========================================
+Employee ID: M2
+Name: Grace
+Department: Sales
+Base Salary: 40000
+Final Salary: 42000.0
+Team Size: 3
+Bonus Percent: 5.0%
+Bonus Amount: 2000.0
+========================================
