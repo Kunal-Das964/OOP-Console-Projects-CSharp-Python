@@ -1,0 +1,15 @@
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\bin\Debug\net8.0\Library_Management_system.exe
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\bin\Debug\net8.0\Library_Management_system.dll.config
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\bin\Debug\net8.0\Library_Management_system.deps.json
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\bin\Debug\net8.0\Library_Management_system.runtimeconfig.json
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\bin\Debug\net8.0\Library_Management_system.dll
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\bin\Debug\net8.0\Library_Management_system.pdb
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\obj\Debug\net8.0\Library_Management_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\obj\Debug\net8.0\Library_Management_system.AssemblyInfoInputs.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\obj\Debug\net8.0\Library_Management_system.AssemblyInfo.cs
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\obj\Debug\net8.0\Library_Management_system.csproj.CoreCompileInputs.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\obj\Debug\net8.0\Library_Management_system.dll
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\obj\Debug\net8.0\refint\Library_Management_system.dll
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\obj\Debug\net8.0\Library_Management_system.pdb
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\obj\Debug\net8.0\Library_Management_system.genruntimeconfig.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Library_Management_system\obj\Debug\net8.0\ref\Library_Management_system.dll

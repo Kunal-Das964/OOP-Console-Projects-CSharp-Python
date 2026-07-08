@@ -1,0 +1,6 @@
+2026-07-04 10:15:00 | INFO | User logged in
+2026-07-04 10:15:05 | ERROR | Database connection failed
+
+2026-07-04 10:15:10 | WARN | High memory usage
+this line is missing pipes entirely
+2026-07-04 10:15:15 | ERROR | Timeout while connecting

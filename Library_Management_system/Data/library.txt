@@ -1,0 +1,14 @@
+Ebook, The Hobbit, Tolkien, 333, 3.5, True, 4
+Printed, Atomic Habits, James Clear, 444, 7, False, 2
+Ebook, Clean Code, Robert Martin, 555, 5.1, True, 6
+Printed, The Alchemist, Paulo Coelho, 666, 15, False, 1
+Ebook, Python Crash Course, Eric Matthes, 777, 8.3, False, 3
+Printed, Rich Dad Poor Dad, Robert Kiyosaki, 888, 21, True, 5
+Ebook, Deep Work, Cal Newport, 999, 2.9, False, 2
+Printed, The Psychology of Money, Morgan Housel, 1000, 18, False, 0
+Ebook, Zero to One, Peter Thiel, 1001, 4.8, True, 7
+Printed, Think and Grow Rich, Napoleon Hill, 1002, 9, False, 1
+Ebook, Sapiens, Yuval Noah Harari, 1003, 6.2, True, 8
+Printed, The Power of Habit, Charles Duhigg, 1004, 11, False, 2
+Ebook, AI Engineering, Andrew Ng, 1005, 7.4, False, 0
+Printed, C# in Depth, Jon Skeet, 1006, 5, True, 9
