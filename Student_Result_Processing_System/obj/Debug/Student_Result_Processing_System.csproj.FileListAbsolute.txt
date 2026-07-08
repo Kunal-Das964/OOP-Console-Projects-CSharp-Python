@@ -1,0 +1,7 @@
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Student_Result_Processing_System\bin\Debug\Student_Result_Processing_System.exe.config
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Student_Result_Processing_System\bin\Debug\Student_Result_Processing_System.exe
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Student_Result_Processing_System\bin\Debug\Student_Result_Processing_System.pdb
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Student_Result_Processing_System\obj\Debug\Student_Result_Processing_System.csproj.AssemblyReference.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Student_Result_Processing_System\obj\Debug\Student_Result_Processing_System.csproj.CoreCompileInputs.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Student_Result_Processing_System\obj\Debug\Student_Result_Processing_System.exe
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Student_Result_Processing_System\obj\Debug\Student_Result_Processing_System.pdb

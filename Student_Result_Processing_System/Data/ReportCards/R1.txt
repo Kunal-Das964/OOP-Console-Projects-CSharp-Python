@@ -1,0 +1,10 @@
+--- Report Card ---
+Name: Alice
+Roll No: R1
+Subject 1 Marks: 92
+Subject 2 Marks: 88
+Subject 3 Marks: 95
+Total Marks: 275
+Average: 91.00
+Grade: A
+Status: Pass

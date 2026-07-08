@@ -1,0 +1,9 @@
+Base,T1,Set up CI pipeline,Medium,To Do,
+Bug,T2,Login crashes on submit,High,In Progress,Critical
+Feature,T3,Add dark mode,Low,To Do,5 days
+Bug,T4,Payment gateway timeout,High,Done,Blocker
+Feature,T5,Export to PDF,Medium,In Progress,3 days
+Base,T6,Update README,Low,Done,
+Weird,T7,Unknown type test,High,To Do,extra data
+Bug,T8,Missing field test,Medium
+Feature,T9,,Low,To Do,2 days

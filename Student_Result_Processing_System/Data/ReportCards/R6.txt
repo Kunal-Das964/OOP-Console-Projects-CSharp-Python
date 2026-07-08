@@ -1,0 +1,10 @@
+--- Report Card ---
+Name: David
+Roll No: R6
+Subject 1 Marks: 90
+Subject 2 Marks: 90
+Subject 3 Marks: 90
+Total Marks: 270
+Average: 90.00
+Grade: A
+Status: Pass

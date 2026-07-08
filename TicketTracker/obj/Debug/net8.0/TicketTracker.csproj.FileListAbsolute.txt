@@ -1,0 +1,14 @@
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\bin\Debug\net8.0\TicketTracker.exe
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\bin\Debug\net8.0\TicketTracker.deps.json
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\bin\Debug\net8.0\TicketTracker.runtimeconfig.json
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\bin\Debug\net8.0\TicketTracker.dll
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\bin\Debug\net8.0\TicketTracker.pdb
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\obj\Debug\net8.0\TicketTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\obj\Debug\net8.0\TicketTracker.AssemblyInfoInputs.cache
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\obj\Debug\net8.0\TicketTracker.AssemblyInfo.cs
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\obj\Debug\net8.0\TicketTracker.csproj.CoreCompileInputs.cache
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\obj\Debug\net8.0\TicketTracker.dll
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\obj\Debug\net8.0\refint\TicketTracker.dll
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\obj\Debug\net8.0\TicketTracker.pdb
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\obj\Debug\net8.0\TicketTracker.genruntimeconfig.cache
+C:\Users\kunal.das\Downloads\Project7_TicketTracker\csharp\07_TicketTracker\obj\Debug\net8.0\ref\TicketTracker.dll

@@ -1,0 +1,10 @@
+--- Report Card ---
+Name: Charlie
+Roll No: R3
+Subject 1 Marks: 90
+Subject 2 Marks: 80
+Subject 3 Marks: 30
+Total Marks: 200
+Average: 66.00
+Grade: C
+Status: Fail
