@@ -1,0 +1,7 @@
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Contact_Book_with_Data_Validation\bin\Debug\Contact_Book_with_Data_Validation.exe.config
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Contact_Book_with_Data_Validation\bin\Debug\Contact_Book_with_Data_Validation.exe
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Contact_Book_with_Data_Validation\bin\Debug\Contact_Book_with_Data_Validation.pdb
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Contact_Book_with_Data_Validation\obj\Debug\Contact_Book_with_Data_Validation.csproj.AssemblyReference.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Contact_Book_with_Data_Validation\obj\Debug\Contact_Book_with_Data_Validation.csproj.CoreCompileInputs.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Contact_Book_with_Data_Validation\obj\Debug\Contact_Book_with_Data_Validation.exe
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Contact_Book_with_Data_Validation\obj\Debug\Contact_Book_with_Data_Validation.pdb

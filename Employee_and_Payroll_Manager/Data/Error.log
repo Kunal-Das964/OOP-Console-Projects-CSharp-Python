@@ -1,0 +1,4 @@
+Skipped (invalid salary 'notanumber'): Charlie,E3,notanumber,Marketing
+Skipped (wrong number of fields): Dave,E4,55000
+Skipped (invalid salary ''): Frank,E6,,Support
+Skipped (wrong number of fields): Grace,E7,48000,Finance,Extra

@@ -1,0 +1,12 @@
+Alice,E1,50000,Engineering
+Bob,E2,60000,Sales
+Charlie,E3,notanumber,Marketing
+Dave,E4,55000
+Eve,E5,72000,HR
+
+Frank,E6,,Support
+Grace,E7,48000,Finance,Extra
+Henry,E8,-3000,Engineering
+Isla,E9,63500,Marketing
+,E10,45000,Sales
+Jack,,58000,Engineering

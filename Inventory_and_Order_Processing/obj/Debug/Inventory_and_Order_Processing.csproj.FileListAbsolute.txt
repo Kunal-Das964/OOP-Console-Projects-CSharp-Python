@@ -1,0 +1,7 @@
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Inventory_and_Order_Processing\bin\Debug\Inventory_and_Order_Processing.exe.config
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Inventory_and_Order_Processing\bin\Debug\Inventory_and_Order_Processing.exe
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Inventory_and_Order_Processing\bin\Debug\Inventory_and_Order_Processing.pdb
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Inventory_and_Order_Processing\obj\Debug\Inventory_and_Order_Processing.csproj.AssemblyReference.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Inventory_and_Order_Processing\obj\Debug\Inventory_and_Order_Processing.csproj.CoreCompileInputs.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Inventory_and_Order_Processing\obj\Debug\Inventory_and_Order_Processing.exe
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Inventory_and_Order_Processing\obj\Debug\Inventory_and_Order_Processing.pdb

@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Bank_Account_and_Transaction_Ledger/Bank_Account_and_Transaction_Ledger.csproj" Id="5a67b80e-f96c-4490-8430-5cbebc0267d7" />
+  <Project Path="Contact_Book_with_Data_Validation/Contact_Book_with_Data_Validation.csproj" Id="ce52121b-948c-4051-b297-59d5e4589cbd" />
+  <Project Path="Employee_and_Payroll_Manager/Employee_and_Payroll_Manager.csproj" Id="e9110644-2ca1-4c55-a4ca-6705a9c4b85d" />
+  <Project Path="Inventory_and_Order_Processing/Inventory_and_Order_Processing.csproj" Id="de863b7d-577f-426a-bf2c-a626b5895e65" />
+  <Project Path="Library_Management_system/Library_Management_system.csproj" Id="3f707dec-7e48-438b-a0d2-cd883ca0cdef" />
+  <Project Path="Log_File_Analyzer_Alert_System/Log_File_Analyzer_Alert_System.csproj" Id="806a392b-dd91-4541-9f8f-a1390008cb4f" />
+  <Project Path="Student_Result_Processing_System/Student_Result_Processing_System.csproj" Id="4132940a-dff8-44e3-9138-dd1313174bf1" />
+  <Project Path="TicketTracker/TicketTracker.csproj" />
+</Solution>

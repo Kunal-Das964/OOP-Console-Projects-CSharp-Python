@@ -1,0 +1,7 @@
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Employee_and_Payroll_Manager\bin\Debug\Employee_and_Payroll_Manager.exe.config
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Employee_and_Payroll_Manager\bin\Debug\Employee_and_Payroll_Manager.exe
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Employee_and_Payroll_Manager\bin\Debug\Employee_and_Payroll_Manager.pdb
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Employee_and_Payroll_Manager\obj\Debug\Employee_and_Payroll_Manager.csproj.AssemblyReference.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Employee_and_Payroll_Manager\obj\Debug\Employee_and_Payroll_Manager.csproj.CoreCompileInputs.cache
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Employee_and_Payroll_Manager\obj\Debug\Employee_and_Payroll_Manager.exe
+C:\Users\kunal.das\OneDrive - Acuvate Software Private Limited\Desktop\Projects\OOP and File-handling\C#\Employee_and_Payroll_Manager\obj\Debug\Employee_and_Payroll_Manager.pdb

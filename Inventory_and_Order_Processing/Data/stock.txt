@@ -1,0 +1,3 @@
+﻿Laptop,800,10
+Mouse,25,50
+Keyboard,45,3
