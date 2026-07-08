@@ -1,0 +1,10 @@
+--- Report Card ---
+Name: Bob
+Roll No: R2
+Subject 1 Marks: 40.0
+Subject 2 Marks: 38.0
+Subject 3 Marks: 36.0
+Total Marks: 114.0
+Average: 38.00
+Grade: D
+Status: Pass

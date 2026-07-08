@@ -1,0 +1,12 @@
+2026-07-04 10:15:05 | ERROR | Database connection failed
+2026-07-04 10:15:15 | ERROR | Timeout while connecting
+2026-07-04 10:15:05 | ERROR | Database connection failed
+2026-07-04 10:18:05 | ERROR | Payment gateway timeout
+2026-07-04 10:21:40 | ERROR | Invalid user credentials
+2026-07-04 10:24:55 | ERROR | Failed to send email
+2026-07-04 10:28:00 | ERROR | Inventory update failed
+2026-07-04 10:31:55 | ERROR | Backup verification failed
+2026-07-04 10:35:10 | ERROR | API rate limit exceeded
+2026-07-04 10:38:30 | ERROR | File access denied
+2026-07-04 10:41:18 | ERROR | SMS notification failed
+2026-07-04 10:44:55 | ERROR | Payment verification failed

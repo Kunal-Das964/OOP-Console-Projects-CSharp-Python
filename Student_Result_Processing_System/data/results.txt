@@ -1,0 +1,6 @@
+Alice,R1,92,88,95
+Bob,R2,40,38,36
+
+Charlie,R3,90,80,30
+Dave,R4,absent,70,65
+Eve,R5,55,60
